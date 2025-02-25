@@ -1,9 +1,165 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.16">
   <diagram name="Página-1" id="I99F2NskH2YmtPhK2gz2">
-    <mxGraphModel>
+    <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-3" value="Site" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-5" value="Compra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1.004;exitY=0.329;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-50" target="4FD4NFaw8G5c-ec8fT4B-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="525" as="sourcePoint" />
+            <mxPoint x="460" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-5" target="4FD4NFaw8G5c-ec8fT4B-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="605" as="sourcePoint" />
+            <mxPoint x="690" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1,N)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-13" value="Empresa" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-14" value="Aluga" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-14" target="4FD4NFaw8G5c-ec8fT4B-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="420" as="sourcePoint" />
+            <mxPoint x="970" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-3" target="4FD4NFaw8G5c-ec8fT4B-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="340" as="sourcePoint" />
+            <mxPoint x="920" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4FD4NFaw8G5c-ec8fT4B-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="270" as="sourcePoint" />
+            <mxPoint x="990" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-19" value="Está no" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-19" target="4FD4NFaw8G5c-ec8fT4B-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="390" as="sourcePoint" />
+            <mxPoint x="1020" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-21" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-22" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-23" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-24" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-25" value="Aplicativo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-27" value="Programa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="960" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-13" target="4FD4NFaw8G5c-ec8fT4B-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="600" as="sourcePoint" />
+            <mxPoint x="1130" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-27" target="4FD4NFaw8G5c-ec8fT4B-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="580" as="sourcePoint" />
+            <mxPoint x="1150" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-49" value="&lt;div&gt;Pessoa Física&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="430" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-50" value="&lt;div&gt;Nome: Allan, Paulo, Thales&lt;/div&gt;&lt;div&gt;CPF: 0912849213, 0123478579, 9487571&lt;/div&gt;&lt;div&gt;ID: 01, 02, 03&lt;/div&gt;&lt;div&gt;Cidade, Campinas, Valinhos, São Paulo&lt;/div&gt;&lt;div&gt;Idade: 20, 21, 15&lt;/div&gt;&lt;div&gt;CEP: &lt;span class=&quot;LrzXr&quot;&gt;13013-040, 01021200,54120333&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;LrzXr&quot;&gt;Método de pagamento, crédito, débito, Pix&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="4FD4NFaw8G5c-ec8fT4B-49">
+          <mxGeometry y="50" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-53" value="Produto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="425" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-54" value="&lt;div&gt;ID: 01, 02, 04&lt;/div&gt;&lt;div&gt;Nome: Creme de Leite, Leite, Pão&lt;/div&gt;&lt;div&gt;Marca: Panco, Sadia, Moça&lt;/div&gt;&lt;div&gt;Preço: 20, 40, 50&lt;/div&gt;&lt;div&gt;Data de validade: 10/02, 25/12, 10/03&lt;/div&gt;&lt;div&gt;Data de fabricação: 10/02, 10/03, 10/04&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="4FD4NFaw8G5c-ec8fT4B-53">
+          <mxGeometry y="50" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-55" value="Compra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="351" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1.004;exitY=0.329;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-60" target="4FD4NFaw8G5c-ec8fT4B-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="280" as="sourcePoint" />
+            <mxPoint x="451" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-55" target="4FD4NFaw8G5c-ec8fT4B-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331" y="360" as="sourcePoint" />
+            <mxPoint x="681" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1,N)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="501" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-59" value="Pessoa Jurídica" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="185" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-60" value="&lt;div&gt;Nome: Allan, Paulo, Thales&lt;/div&gt;&lt;div&gt;CNPJ: 0912849213, 0123478579, 9487571&lt;/div&gt;&lt;div&gt;ID: 01, 02, 03&lt;/div&gt;&lt;div&gt;Cidade, Campinas, Valinhos, São Paulo&lt;/div&gt;&lt;div&gt;Idade: 20, 21, 15&lt;/div&gt;&lt;div&gt;CEP: &lt;span class=&quot;LrzXr&quot;&gt;13013-040, 01021200,54120333&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;LrzXr&quot;&gt;Método de pagamento, crédito, débito, Pix&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="4FD4NFaw8G5c-ec8fT4B-59">
+          <mxGeometry y="50" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-61" value="Produto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="180" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-62" value="&lt;div&gt;ID: 01, 02, 04&lt;/div&gt;&lt;div&gt;Nome: Creme de Leite, Leite, Pão&lt;/div&gt;&lt;div&gt;Marca: Panco, Sadia, Moça&lt;/div&gt;&lt;div&gt;Preço: 20, 40, 50&lt;/div&gt;&lt;div&gt;Data de validade: 10/02, 25/12, 10/03&lt;/div&gt;&lt;div&gt;Data de fabricação: 10/02, 10/03, 10/04&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="4FD4NFaw8G5c-ec8fT4B-61">
+          <mxGeometry y="50" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-63" value="Produto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="680" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-64" value="&lt;div&gt;ID: 01, 02, 04&lt;/div&gt;&lt;div&gt;Nome: Creme de Leite, Leite, Pão&lt;/div&gt;&lt;div&gt;Marca: Panco, Sadia, Moça&lt;/div&gt;&lt;div&gt;Preço: 20, 40, 50&lt;/div&gt;&lt;div&gt;Data de validade: 10/02, 25/12, 10/03&lt;/div&gt;&lt;div&gt;Data de fabricação: 10/02, 10/03, 10/04&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="4FD4NFaw8G5c-ec8fT4B-63">
+          <mxGeometry y="50" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="4FD4NFaw8G5c-ec8fT4B-67" source="4FD4NFaw8G5c-ec8fT4B-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="780" as="sourcePoint" />
+            <mxPoint x="266.89" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-67" value="Está no" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="381" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-68" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FD4NFaw8G5c-ec8fT4B-67" target="4FD4NFaw8G5c-ec8fT4B-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136.89" y="960" as="sourcePoint" />
+            <mxPoint x="620" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-69" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516.89" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-73" value="SIte" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="680" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4FD4NFaw8G5c-ec8fT4B-74" value="&lt;div&gt;Marca: Mercado Livre, Amazon, Shopee&lt;br&gt;&lt;/div&gt;&lt;div&gt;Endereço:www.amazon.com,www.mercadolivre.com,www.shopee.com&lt;/div&gt;&lt;div&gt;produto: Videogame, Pão, Caderno&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="4FD4NFaw8G5c-ec8fT4B-73">
+          <mxGeometry y="50" width="400" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
